@@ -1,5 +1,5 @@
 # PIZZA ptk
-A simple app for ordering pizzas
+Front end do sistema de encomenda de pizzas da Comunidade Pantokrator
 
 ## Features
-* Choose and order your favorite pizza
+* Escolha e faça o pedido da sua pizza favorita
